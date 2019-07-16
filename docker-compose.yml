@@ -1,0 +1,42 @@
+version: '3.7'
+
+services:
+
+  postgres:
+    image: postgres:latest
+    restart: always
+    environment:
+      POSTGRES_USER: jefrydco
+      POSTGRES_PASSWORD: admin123
+      POSTGRES_DB: ayo-rek
+    ports:
+      - 5432:5432
+    networks: 
+      - ayo-rek
+    volumes:
+      - ./docker/postgres:/var/lib/postgresql/data
+
+  pgadmin4:
+    image: dpage/pgadmin4:latest
+    restart: always
+    environment:
+      PGADMIN_DEFAULT_EMAIL: jefrydco@gmail.com
+      PGADMIN_DEFAULT_PASSWORD: admin123
+    ports:
+      - 8080:80
+    networks: 
+      - ayo-rek
+
+  redis:
+    image: redis:latest
+    restart: always
+    ports:
+      - 6379:6379
+    networks: 
+      - ayo-rek
+    volumes:
+      - ./docker/redis:/data
+    entrypoint: redis-server --appendonly yes --requirepass admin123
+
+networks:
+  ayo-rek:

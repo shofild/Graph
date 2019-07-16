@@ -1,0 +1,458 @@
+[
+    {
+        "id": "bf185c8d-cf08-41f6-b149-17c161d9d476",
+        "path": "/uploads/images/datasets/students/b454a7bc-7595-422b-80e3-df9b46951125/cf4d3f7c-91e1-4d3d-830b-4a92cc99ec21.jpg",
+        "has_descriptor": true,
+        "student_id": "b454a7bc-7595-422b-80e3-df9b46951125"
+    },
+    {
+        "id": "eccef26a-04c9-4167-8d8e-f472e3640b18",
+        "path": "/uploads/images/datasets/students/b454a7bc-7595-422b-80e3-df9b46951125/ddf00a34-55d7-4de9-8fdb-a9c2d76ca389.jpg",
+        "has_descriptor": true,
+        "student_id": "b454a7bc-7595-422b-80e3-df9b46951125"
+    },
+    {
+        "id": "437a3585-0ead-43d3-bbb8-b38a4b3fdc9d",
+        "path": "/uploads/images/datasets/students/b454a7bc-7595-422b-80e3-df9b46951125/ddb1ccfd-652a-4a58-bc7a-91446b7b0042.jpg",
+        "has_descriptor": true,
+        "student_id": "b454a7bc-7595-422b-80e3-df9b46951125"
+    },
+    {
+        "id": "3b80ba30-0d91-4bec-8008-0f21fd12b6d5",
+        "path": "/uploads/images/datasets/students/295c6bb8-8a25-4aca-93ee-3aed2a78c3d0/47ddc55f-eeb8-4998-97d5-c37034f1c097.jpg",
+        "has_descriptor": true,
+        "student_id": "295c6bb8-8a25-4aca-93ee-3aed2a78c3d0"
+    },
+    {
+        "id": "1c20fa70-0d52-4d26-ba46-1df2ae93a40e",
+        "path": "/uploads/images/datasets/students/295c6bb8-8a25-4aca-93ee-3aed2a78c3d0/b09e37c2-ab21-412a-bff1-64554675f607.jpg",
+        "has_descriptor": true,
+        "student_id": "295c6bb8-8a25-4aca-93ee-3aed2a78c3d0"
+    },
+    {
+        "id": "e015d12e-2ffc-4f0f-a985-f900559aa557",
+        "path": "/uploads/images/datasets/students/295c6bb8-8a25-4aca-93ee-3aed2a78c3d0/2801614a-4418-4ebf-a65f-6723722c925a.jpg",
+        "has_descriptor": true,
+        "student_id": "295c6bb8-8a25-4aca-93ee-3aed2a78c3d0"
+    },
+    {
+        "id": "e599f873-197c-4904-998a-c160d4906529",
+        "path": "/uploads/images/datasets/students/b2462cc1-7418-4b8c-b273-1ac4f000cccd/81da66db-e00d-4b91-ada3-474fe52fcc47.jpg",
+        "has_descriptor": true,
+        "student_id": "b2462cc1-7418-4b8c-b273-1ac4f000cccd"
+    },
+    {
+        "id": "6ed90ce2-bc19-4433-9e78-64de1bece0b3",
+        "path": "/uploads/images/datasets/students/b2462cc1-7418-4b8c-b273-1ac4f000cccd/417b39c4-5114-4619-bbe7-537b49c8340a.jpg",
+        "has_descriptor": true,
+        "student_id": "b2462cc1-7418-4b8c-b273-1ac4f000cccd"
+    },
+    {
+        "id": "e94b49c5-7299-4e0a-b57b-4245e06b2324",
+        "path": "/uploads/images/datasets/students/b2462cc1-7418-4b8c-b273-1ac4f000cccd/7c35c63e-35d6-4e36-a430-46252836f040.jpg",
+        "has_descriptor": true,
+        "student_id": "b2462cc1-7418-4b8c-b273-1ac4f000cccd"
+    },
+    {
+        "id": "4e43dc59-85ed-4ce3-89ba-98acf6679249",
+        "path": "/uploads/images/datasets/students/c29628e4-e37c-4351-8005-1ba6ca6bc1df/38e08a1d-0f5d-4fb2-a657-cea79d073603.jpg",
+        "has_descriptor": true,
+        "student_id": "c29628e4-e37c-4351-8005-1ba6ca6bc1df"
+    },
+    {
+        "id": "e0dc0481-68e2-41bc-bc13-f57593eb70fa",
+        "path": "/uploads/images/datasets/students/c29628e4-e37c-4351-8005-1ba6ca6bc1df/bdd97068-0d2b-4cde-b91b-6d0c5efba459.jpg",
+        "has_descriptor": true,
+        "student_id": "c29628e4-e37c-4351-8005-1ba6ca6bc1df"
+    },
+    {
+        "id": "2da80c57-5507-4508-b389-5c68845537f3",
+        "path": "/uploads/images/datasets/students/c29628e4-e37c-4351-8005-1ba6ca6bc1df/4d361286-ca48-4502-9d6a-992dc62a096e.jpg",
+        "has_descriptor": true,
+        "student_id": "c29628e4-e37c-4351-8005-1ba6ca6bc1df"
+    },
+    {
+        "id": "18a4b109-1ab2-408a-8df6-aa6b66f22d8b",
+        "path": "/uploads/images/datasets/students/891e6657-ffc6-4fc8-a031-cd066879a92f/e89a3588-bc00-4dab-9702-4e76691ff8a4.jpg",
+        "has_descriptor": true,
+        "student_id": "891e6657-ffc6-4fc8-a031-cd066879a92f"
+    },
+    {
+        "id": "7619793f-6199-4502-9635-eeb95cc59b74",
+        "path": "/uploads/images/datasets/students/891e6657-ffc6-4fc8-a031-cd066879a92f/481d64df-90f5-41c4-b8c8-e3d8d292d107.jpg",
+        "has_descriptor": true,
+        "student_id": "891e6657-ffc6-4fc8-a031-cd066879a92f"
+    },
+    {
+        "id": "4d449af4-b14e-4d3a-9dd1-8bc0876dc6aa",
+        "path": "/uploads/images/datasets/students/891e6657-ffc6-4fc8-a031-cd066879a92f/af147807-24e3-4825-84be-7ba85422e1c8.jpg",
+        "has_descriptor": true,
+        "student_id": "891e6657-ffc6-4fc8-a031-cd066879a92f"
+    },
+    {
+        "id": "7df3d6e5-1779-4890-9927-33a31d7b3682",
+        "path": "/uploads/images/datasets/students/4eab33f5-fd73-4fb8-bd01-68887cb9df85/461f5eb9-46cd-45a0-9cbc-e8bccba94e66.jpg",
+        "has_descriptor": true,
+        "student_id": "4eab33f5-fd73-4fb8-bd01-68887cb9df85"
+    },
+    {
+        "id": "f73f41b6-f05c-4ad4-b573-3d54d75c803b",
+        "path": "/uploads/images/datasets/students/4eab33f5-fd73-4fb8-bd01-68887cb9df85/994616d3-c357-44b2-8020-b2d09f64b08b.jpg",
+        "has_descriptor": true,
+        "student_id": "4eab33f5-fd73-4fb8-bd01-68887cb9df85"
+    },
+    {
+        "id": "9a4a21eb-6f21-421a-b1f8-2ad91f5fc045",
+        "path": "/uploads/images/datasets/students/4eab33f5-fd73-4fb8-bd01-68887cb9df85/68395679-4ca2-496e-b512-5a5602077e41.jpg",
+        "has_descriptor": true,
+        "student_id": "4eab33f5-fd73-4fb8-bd01-68887cb9df85"
+    },
+    {
+        "id": "09ea819f-c98d-4d33-aecf-b9745609a28a",
+        "path": "/uploads/images/datasets/students/bfcb5046-05ba-4e7f-b58c-a653b4f9b16d/70e88c3a-ce78-4a92-aca4-a54e6e514d76.jpg",
+        "has_descriptor": true,
+        "student_id": "bfcb5046-05ba-4e7f-b58c-a653b4f9b16d"
+    },
+    {
+        "id": "bcd9b170-c7a4-46ac-806f-d61d560ba555",
+        "path": "/uploads/images/datasets/students/bfcb5046-05ba-4e7f-b58c-a653b4f9b16d/de529e1e-82a6-4146-9608-edc3123a0472.jpg",
+        "has_descriptor": true,
+        "student_id": "bfcb5046-05ba-4e7f-b58c-a653b4f9b16d"
+    },
+    {
+        "id": "b7119cf0-c34e-486b-bf5e-796fd9fbcdb6",
+        "path": "/uploads/images/datasets/students/bfcb5046-05ba-4e7f-b58c-a653b4f9b16d/de4559b9-b313-4f0a-ae1f-8f5ae83aef51.jpg",
+        "has_descriptor": true,
+        "student_id": "bfcb5046-05ba-4e7f-b58c-a653b4f9b16d"
+    },
+    {
+        "id": "626637f1-25fa-46ea-a1b8-27af51f2a60b",
+        "path": "/uploads/images/datasets/students/b0017427-bfb9-460e-870c-9204445dc3ed/dbfa2183-78e5-4b57-bd08-11db31a5cb2a.jpg",
+        "has_descriptor": true,
+        "student_id": "b0017427-bfb9-460e-870c-9204445dc3ed"
+    },
+    {
+        "id": "f3a172c5-47ad-46ca-8e4b-ce81ad2396a5",
+        "path": "/uploads/images/datasets/students/b0017427-bfb9-460e-870c-9204445dc3ed/3e7214c2-5e6e-4696-b246-cd0049595c64.jpg",
+        "has_descriptor": true,
+        "student_id": "b0017427-bfb9-460e-870c-9204445dc3ed"
+    },
+    {
+        "id": "0ceb4e72-28ad-4533-b219-ada0284ce35e",
+        "path": "/uploads/images/datasets/students/b0017427-bfb9-460e-870c-9204445dc3ed/974569bc-7541-434a-94ca-5341c657b1fd.jpg",
+        "has_descriptor": true,
+        "student_id": "b0017427-bfb9-460e-870c-9204445dc3ed"
+    },
+    {
+        "id": "96e3e00c-b848-4bca-9c86-a6679c27e537",
+        "path": "/uploads/images/datasets/students/eb060f70-186e-458f-b53d-991e355b9c23/9c439ecd-31de-449f-826a-08522ddff661.jpg",
+        "has_descriptor": true,
+        "student_id": "eb060f70-186e-458f-b53d-991e355b9c23"
+    },
+    {
+        "id": "44548b67-e806-43b4-a0a2-7168a5efcb6d",
+        "path": "/uploads/images/datasets/students/eb060f70-186e-458f-b53d-991e355b9c23/91dbbffc-1004-42c7-a9a3-6c24c926722d.jpg",
+        "has_descriptor": true,
+        "student_id": "eb060f70-186e-458f-b53d-991e355b9c23"
+    },
+    {
+        "id": "d0059136-aeb4-4c86-bff8-2541adfe75e3",
+        "path": "/uploads/images/datasets/students/eb060f70-186e-458f-b53d-991e355b9c23/3c1e7fa8-2ccb-46e8-afcb-ac6aecea64d5.jpg",
+        "has_descriptor": true,
+        "student_id": "eb060f70-186e-458f-b53d-991e355b9c23"
+    },
+    {
+        "id": "2b798832-badf-4543-9fdb-9e2611301e93",
+        "path": "/uploads/images/datasets/students/1c762595-49d3-47d9-8a76-9d673545a412/36a8b4d4-6550-469e-a389-3600c6562b7e.jpg",
+        "has_descriptor": true,
+        "student_id": "1c762595-49d3-47d9-8a76-9d673545a412"
+    },
+    {
+        "id": "a6cdc778-7673-463f-80c9-fb6435c7fc70",
+        "path": "/uploads/images/datasets/students/1c762595-49d3-47d9-8a76-9d673545a412/a75ce2e6-4c6c-4011-8f94-04160b26b780.jpg",
+        "has_descriptor": true,
+        "student_id": "1c762595-49d3-47d9-8a76-9d673545a412"
+    },
+    {
+        "id": "4b6d38f8-db8c-458b-8735-5ff56b8c0eac",
+        "path": "/uploads/images/datasets/students/1c762595-49d3-47d9-8a76-9d673545a412/799febf6-40e5-4c6d-b38f-9772fa2ec616.jpg",
+        "has_descriptor": true,
+        "student_id": "1c762595-49d3-47d9-8a76-9d673545a412"
+    },
+    {
+        "id": "ed296a12-77c7-4a7c-a47a-369c5c375264",
+        "path": "/uploads/images/datasets/students/1b0559ce-fadd-4067-9a93-19a4e94a0827/610f27b7-c720-45d4-bda5-1aae44358802.jpg",
+        "has_descriptor": true,
+        "student_id": "1b0559ce-fadd-4067-9a93-19a4e94a0827"
+    },
+    {
+        "id": "5a0998b4-14be-469b-9cc0-dbff528e2d89",
+        "path": "/uploads/images/datasets/students/1b0559ce-fadd-4067-9a93-19a4e94a0827/60defd6f-5386-4f16-a698-9ea3f9c9368f.jpg",
+        "has_descriptor": true,
+        "student_id": "1b0559ce-fadd-4067-9a93-19a4e94a0827"
+    },
+    {
+        "id": "a7c536f4-70b3-4430-8e75-c66d4e06a08e",
+        "path": "/uploads/images/datasets/students/1b0559ce-fadd-4067-9a93-19a4e94a0827/9c326f6f-ff6b-47f9-a66b-c81ddd5b5d30.jpg",
+        "has_descriptor": true,
+        "student_id": "1b0559ce-fadd-4067-9a93-19a4e94a0827"
+    },
+    {
+        "id": "06041633-09ef-4eaa-aa2e-775b089072cb",
+        "path": "/uploads/images/datasets/students/37d826cd-0987-460e-bcbc-30f64b350a7a/08f5a26a-ad4f-46db-828c-f1dab46d938f.jpg",
+        "has_descriptor": true,
+        "student_id": "37d826cd-0987-460e-bcbc-30f64b350a7a"
+    },
+    {
+        "id": "db253555-1da2-4724-88ea-3214a87939bf",
+        "path": "/uploads/images/datasets/students/37d826cd-0987-460e-bcbc-30f64b350a7a/97fd09e0-0dcf-4afb-8400-ac8a4c1b74de.jpg",
+        "has_descriptor": true,
+        "student_id": "37d826cd-0987-460e-bcbc-30f64b350a7a"
+    },
+    {
+        "id": "507e0f80-08c9-4a82-9b19-21f64c74b9d0",
+        "path": "/uploads/images/datasets/students/37d826cd-0987-460e-bcbc-30f64b350a7a/392ba360-7f89-415b-9fac-0d18bc9d7bd1.jpg",
+        "has_descriptor": true,
+        "student_id": "37d826cd-0987-460e-bcbc-30f64b350a7a"
+    },
+    {
+        "id": "c2a242f0-6d50-4690-a7e1-ae5918d3807b",
+        "path": "/uploads/images/datasets/students/251ce95e-7bf4-4666-936b-bde36c43dbc9/9a4b76f0-6d75-4526-a5c3-15291111dbce.jpg",
+        "has_descriptor": true,
+        "student_id": "251ce95e-7bf4-4666-936b-bde36c43dbc9"
+    },
+    {
+        "id": "01ca034d-a7a1-4d65-ae61-2e2758994262",
+        "path": "/uploads/images/datasets/students/251ce95e-7bf4-4666-936b-bde36c43dbc9/650eb7ee-6221-4c02-8078-11c25ccf3348.jpg",
+        "has_descriptor": true,
+        "student_id": "251ce95e-7bf4-4666-936b-bde36c43dbc9"
+    },
+    {
+        "id": "eb5db7c4-d497-4a38-b7ad-803858a58fda",
+        "path": "/uploads/images/datasets/students/251ce95e-7bf4-4666-936b-bde36c43dbc9/4593eb85-8e82-4bb8-81fc-4e99e5970b86.jpg",
+        "has_descriptor": true,
+        "student_id": "251ce95e-7bf4-4666-936b-bde36c43dbc9"
+    },
+    {
+        "id": "4ff83260-2831-4513-90f1-85ab72e096aa",
+        "path": "/uploads/images/datasets/students/660ea598-7ebc-4940-b9b5-f531240e1d6c/44472946-2c66-4b81-aa9d-75735416580c.jpg",
+        "has_descriptor": true,
+        "student_id": "660ea598-7ebc-4940-b9b5-f531240e1d6c"
+    },
+    {
+        "id": "4e45098e-33d5-47d1-9deb-2add91534d34",
+        "path": "/uploads/images/datasets/students/660ea598-7ebc-4940-b9b5-f531240e1d6c/9a2f8e48-daf0-4e82-8aa2-9b4d8a139eb5.jpg",
+        "has_descriptor": true,
+        "student_id": "660ea598-7ebc-4940-b9b5-f531240e1d6c"
+    },
+    {
+        "id": "6a3b1282-bdcb-41b3-9f2b-dd81a68ae172",
+        "path": "/uploads/images/datasets/students/660ea598-7ebc-4940-b9b5-f531240e1d6c/9af473e3-bed1-47c7-af3e-0874d049c365.jpg",
+        "has_descriptor": true,
+        "student_id": "660ea598-7ebc-4940-b9b5-f531240e1d6c"
+    },
+    {
+        "id": "d32ef74f-c4c1-4f1f-9aed-eaf356ce5e3d",
+        "path": "/uploads/images/datasets/students/85e7905c-510a-436c-aebd-2a13d1b6f94f/858b077c-edac-44c1-bbd7-d69228ad9e48.jpg",
+        "has_descriptor": true,
+        "student_id": "85e7905c-510a-436c-aebd-2a13d1b6f94f"
+    },
+    {
+        "id": "f1833e25-3eef-440a-9acd-88e099360dac",
+        "path": "/uploads/images/datasets/students/85e7905c-510a-436c-aebd-2a13d1b6f94f/419a9bdd-dd77-41ca-a763-2ed3521e58ca.jpg",
+        "has_descriptor": true,
+        "student_id": "85e7905c-510a-436c-aebd-2a13d1b6f94f"
+    },
+    {
+        "id": "b164b6ed-753e-4498-a147-f555a49d7ea6",
+        "path": "/uploads/images/datasets/students/85e7905c-510a-436c-aebd-2a13d1b6f94f/7fa00fb1-4cf1-49cd-b61c-d7be87ae380c.jpg",
+        "has_descriptor": true,
+        "student_id": "85e7905c-510a-436c-aebd-2a13d1b6f94f"
+    },
+    {
+        "id": "b7fb4e45-e9b2-46a8-be46-73c5238e4f90",
+        "path": "/uploads/images/datasets/students/1e248c83-2005-4665-b15a-344f36a0c343/681af959-f18e-4400-a27d-f53d887bebdb.jpg",
+        "has_descriptor": true,
+        "student_id": "1e248c83-2005-4665-b15a-344f36a0c343"
+    },
+    {
+        "id": "8b13f69a-70d0-49ab-b703-770dd35a65a6",
+        "path": "/uploads/images/datasets/students/1e248c83-2005-4665-b15a-344f36a0c343/df9da9e3-a37d-411a-a3ee-e56229464ab3.jpg",
+        "has_descriptor": true,
+        "student_id": "1e248c83-2005-4665-b15a-344f36a0c343"
+    },
+    {
+        "id": "f36d36a6-6764-47ac-8e29-f5cb14bac1a1",
+        "path": "/uploads/images/datasets/students/1e248c83-2005-4665-b15a-344f36a0c343/24103e10-d8d6-4cfb-b3d9-135b7cfb0476.jpg",
+        "has_descriptor": true,
+        "student_id": "1e248c83-2005-4665-b15a-344f36a0c343"
+    },
+    {
+        "id": "c71f9d9e-7afd-4786-bef0-76b4f14425f0",
+        "path": "/uploads/images/datasets/students/0ebd95a3-1974-412d-b8e4-35c4ddd68afd/fb95f694-8d21-4861-886d-eb0e2f19da7c.jpg",
+        "has_descriptor": true,
+        "student_id": "0ebd95a3-1974-412d-b8e4-35c4ddd68afd"
+    },
+    {
+        "id": "23f189df-4470-48cb-ae4f-a73b5b6d6af6",
+        "path": "/uploads/images/datasets/students/0ebd95a3-1974-412d-b8e4-35c4ddd68afd/0d60edb9-74be-408c-834b-156bcc447bf7.jpg",
+        "has_descriptor": true,
+        "student_id": "0ebd95a3-1974-412d-b8e4-35c4ddd68afd"
+    },
+    {
+        "id": "91a8eff7-56d2-4bd4-b45c-818d95b3447a",
+        "path": "/uploads/images/datasets/students/0ebd95a3-1974-412d-b8e4-35c4ddd68afd/bb26b36f-42a5-4ede-830d-fe6c280b6fd2.jpg",
+        "has_descriptor": true,
+        "student_id": "0ebd95a3-1974-412d-b8e4-35c4ddd68afd"
+    },
+    {
+        "id": "8457b458-e5bd-4571-bc3c-10846cdfde6f",
+        "path": "/uploads/images/datasets/students/1ee93c2b-0b09-42b1-8a54-55263038a6e5/e3ef7d41-a021-4330-8413-26fd94886077.jpg",
+        "has_descriptor": true,
+        "student_id": "1ee93c2b-0b09-42b1-8a54-55263038a6e5"
+    },
+    {
+        "id": "2dbef357-cff4-427a-a718-ae901dadec10",
+        "path": "/uploads/images/datasets/students/1ee93c2b-0b09-42b1-8a54-55263038a6e5/a35d3ee3-92d6-4271-85de-843d7f6b46df.jpg",
+        "has_descriptor": true,
+        "student_id": "1ee93c2b-0b09-42b1-8a54-55263038a6e5"
+    },
+    {
+        "id": "96830cd8-5290-4cb5-ab11-69640479a095",
+        "path": "/uploads/images/datasets/students/1ee93c2b-0b09-42b1-8a54-55263038a6e5/6408bf1b-236e-473c-9b43-9c5d6d831a50.jpg",
+        "has_descriptor": true,
+        "student_id": "1ee93c2b-0b09-42b1-8a54-55263038a6e5"
+    },
+    {
+        "id": "a5833829-bb69-48e8-b2f3-16ab39cbd65d",
+        "path": "/uploads/images/datasets/students/690157a4-a0a4-49e1-9c12-168a290f7924/aa39741e-3edb-4e3d-8a6e-31637dd65e54.jpg",
+        "has_descriptor": true,
+        "student_id": "690157a4-a0a4-49e1-9c12-168a290f7924"
+    },
+    {
+        "id": "931c6349-d82b-4009-9f8e-ccc1b006e9f4",
+        "path": "/uploads/images/datasets/students/690157a4-a0a4-49e1-9c12-168a290f7924/a21f5051-3635-4383-912e-a2b716579052.jpg",
+        "has_descriptor": true,
+        "student_id": "690157a4-a0a4-49e1-9c12-168a290f7924"
+    },
+    {
+        "id": "8ad080d3-6afb-4329-8b2b-393db886a7c4",
+        "path": "/uploads/images/datasets/students/690157a4-a0a4-49e1-9c12-168a290f7924/fe9de50e-0d40-4811-bdbc-03cbee09fe88.jpg",
+        "has_descriptor": true,
+        "student_id": "690157a4-a0a4-49e1-9c12-168a290f7924"
+    },
+    {
+        "id": "7addfe90-39c4-4893-8173-4d77e6fdaa5f",
+        "path": "/uploads/images/datasets/students/3b7de842-7693-48e0-8cd8-78351ac6fc8b/f7203969-46ee-4acf-96ce-a11d11e3f0d3.jpg",
+        "has_descriptor": true,
+        "student_id": "3b7de842-7693-48e0-8cd8-78351ac6fc8b"
+    },
+    {
+        "id": "15df9933-c0e5-4109-8031-4e45e711f701",
+        "path": "/uploads/images/datasets/students/3b7de842-7693-48e0-8cd8-78351ac6fc8b/52e1b6ee-291a-42d5-aacb-c936ca47d124.jpg",
+        "has_descriptor": true,
+        "student_id": "3b7de842-7693-48e0-8cd8-78351ac6fc8b"
+    },
+    {
+        "id": "89b253f8-22d8-4094-9cc1-cccf1ff36d1b",
+        "path": "/uploads/images/datasets/students/3b7de842-7693-48e0-8cd8-78351ac6fc8b/450cd00c-2c7b-4d5c-a7e6-6d6e8874f0a7.jpg",
+        "has_descriptor": true,
+        "student_id": "3b7de842-7693-48e0-8cd8-78351ac6fc8b"
+    },
+    {
+        "id": "6b466063-08d6-42be-b8de-1a306f96b25c",
+        "path": "/uploads/images/datasets/students/f8d7602f-cd06-4797-a9b6-cfbc048aae02/5a0d9a0f-bd75-43de-a590-72be69791a7a.jpg",
+        "has_descriptor": true,
+        "student_id": "f8d7602f-cd06-4797-a9b6-cfbc048aae02"
+    },
+    {
+        "id": "c8129a10-4c97-479d-82ee-859db32e6703",
+        "path": "/uploads/images/datasets/students/f8d7602f-cd06-4797-a9b6-cfbc048aae02/458a36d9-a683-4fb6-90be-7ed21a7cfcfe.jpg",
+        "has_descriptor": true,
+        "student_id": "f8d7602f-cd06-4797-a9b6-cfbc048aae02"
+    },
+    {
+        "id": "453171ba-ec4b-4e35-b0be-e0ed02979f9f",
+        "path": "/uploads/images/datasets/students/f8d7602f-cd06-4797-a9b6-cfbc048aae02/c6fda6c5-7715-4f0a-8580-ceb19d8797b6.jpg",
+        "has_descriptor": true,
+        "student_id": "f8d7602f-cd06-4797-a9b6-cfbc048aae02"
+    },
+    {
+        "id": "7e109d78-251b-4b84-be3d-5d9036ff836e",
+        "path": "/uploads/images/datasets/students/036a4fd6-2562-4824-b5ff-7cfd8c41b8e6/66f48c82-646b-4bce-b9ee-d55d56607a59.jpg",
+        "has_descriptor": true,
+        "student_id": "036a4fd6-2562-4824-b5ff-7cfd8c41b8e6"
+    },
+    {
+        "id": "ebe433ec-5088-4897-b03b-b4e0646082e2",
+        "path": "/uploads/images/datasets/students/036a4fd6-2562-4824-b5ff-7cfd8c41b8e6/2d0ed8b8-d237-47a9-ba31-48f796f1dad7.jpg",
+        "has_descriptor": true,
+        "student_id": "036a4fd6-2562-4824-b5ff-7cfd8c41b8e6"
+    },
+    {
+        "id": "0fc95eba-5bf1-4fbe-a674-1564d4e40ba4",
+        "path": "/uploads/images/datasets/students/036a4fd6-2562-4824-b5ff-7cfd8c41b8e6/956d8b59-15aa-42ff-854c-6ad8db45c771.jpg",
+        "has_descriptor": true,
+        "student_id": "036a4fd6-2562-4824-b5ff-7cfd8c41b8e6"
+    },
+    {
+        "id": "2b08c5be-5470-45ce-8e9e-1fbb8050cd4c",
+        "path": "/uploads/images/datasets/students/2b171d9a-bcd2-456d-94e6-36ca9b3b13e1/71e5b013-84e5-4aca-b764-9af7382d5e81.jpg",
+        "has_descriptor": true,
+        "student_id": "2b171d9a-bcd2-456d-94e6-36ca9b3b13e1"
+    },
+    {
+        "id": "a239f668-41d4-4a20-9d79-0fdf96b08f67",
+        "path": "/uploads/images/datasets/students/2b171d9a-bcd2-456d-94e6-36ca9b3b13e1/45756840-5149-4e32-ae0d-affffa7d4dc5.jpg",
+        "has_descriptor": true,
+        "student_id": "2b171d9a-bcd2-456d-94e6-36ca9b3b13e1"
+    },
+    {
+        "id": "f760996b-a59e-49ab-97d7-5f171d9996f1",
+        "path": "/uploads/images/datasets/students/2b171d9a-bcd2-456d-94e6-36ca9b3b13e1/9606b4ad-5f34-4b2c-9294-774c1867cbdc.jpg",
+        "has_descriptor": true,
+        "student_id": "2b171d9a-bcd2-456d-94e6-36ca9b3b13e1"
+    },
+    {
+        "id": "0d049092-94a4-4867-bfa9-55c8a77bd2de",
+        "path": "/uploads/images/datasets/students/c7ca4c24-a634-4850-87d5-6e46b819242e/082d7bd0-faee-4d90-8cdd-b40f6d7cccf3.jpg",
+        "has_descriptor": true,
+        "student_id": "c7ca4c24-a634-4850-87d5-6e46b819242e"
+    },
+    {
+        "id": "ecc0c07d-ddca-40f1-98c6-3a3893bf7572",
+        "path": "/uploads/images/datasets/students/c7ca4c24-a634-4850-87d5-6e46b819242e/d3333e89-7e6c-4ede-b5d4-189b149c5e89.jpg",
+        "has_descriptor": true,
+        "student_id": "c7ca4c24-a634-4850-87d5-6e46b819242e"
+    },
+    {
+        "id": "bd5e321e-695f-46b8-b41a-515ac3654440",
+        "path": "/uploads/images/datasets/students/c7ca4c24-a634-4850-87d5-6e46b819242e/22977e22-f94f-474b-a6cd-0ee483f1bbaf.jpg",
+        "has_descriptor": true,
+        "student_id": "c7ca4c24-a634-4850-87d5-6e46b819242e"
+    },
+    {
+        "id": "2f5ce75a-96f1-4417-a5c5-06c292d20d30",
+        "path": "/uploads/images/datasets/students/73eb19cf-4dff-4cd3-82d8-29ede6802afe/02e58dff-b871-4d33-be06-714238c3bdea.jpg",
+        "has_descriptor": true,
+        "student_id": "73eb19cf-4dff-4cd3-82d8-29ede6802afe"
+    },
+    {
+        "id": "356050b2-c908-4088-8ee0-5f7efd1b8bcb",
+        "path": "/uploads/images/datasets/students/73eb19cf-4dff-4cd3-82d8-29ede6802afe/b94a073d-42d8-4ae1-9931-75375fd87d88.jpg",
+        "has_descriptor": true,
+        "student_id": "73eb19cf-4dff-4cd3-82d8-29ede6802afe"
+    },
+    {
+        "id": "8109bb2d-954f-4717-967e-c8cc29d2bed7",
+        "path": "/uploads/images/datasets/students/73eb19cf-4dff-4cd3-82d8-29ede6802afe/077fd9b5-1087-4f08-802d-ace037ccf83d.jpg",
+        "has_descriptor": true,
+        "student_id": "73eb19cf-4dff-4cd3-82d8-29ede6802afe"
+    },
+    {
+        "id": "5efb0c8e-4108-4ec9-a504-118f7eddef7b",
+        "path": "/uploads/images/datasets/students/73eb19cf-4dff-4cd3-82d8-29ede6802afe/998b287a-a285-48bf-b4b2-624ab1300efc.jpg",
+        "has_descriptor": true,
+        "student_id": "73eb19cf-4dff-4cd3-82d8-29ede6802afe"
+    }
+]
