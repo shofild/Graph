@@ -1,5 +1,5 @@
 exports.up = function(knex, Promise) {
-    return knex.schema.createTable('users', table => {
+    return knex.schema.createTable('user', table => {
       table
         .uuid('id')
         .primary()
@@ -9,11 +9,12 @@ exports.up = function(knex, Promise) {
         .string('email')
         .unique()
         .notNullable()
+    table.enum('role', ['admin']).notNullable()
       table.string('hashed_password').notNullable()
     })
   }
   
   exports.down = function(knex, Promise) {
-    return knex.schema.dropTableIfExists('users')
+    return knex.schema.dropTableIfExists('user')
   }
   

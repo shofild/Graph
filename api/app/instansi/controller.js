@@ -2,10 +2,10 @@
 
 const Controller = require('../base/Controller')
 
-class RoomController extends Controller {
+class InstansiController extends Controller {
   constructor() {
-    super(RoomController.name)
+    super(InstansiController.name)
   }
 }
 
-module.exports = new RoomController()
+module.exports = new InstansiController()

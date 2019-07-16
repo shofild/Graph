@@ -6,7 +6,7 @@ const { createTransaction, jwtAuth, handleRole } = require('../middleware')
 const { create, fetchPage, fetch, update, destroy } = require('./controller')
 
 router.post(
-  '/rooms',
+  '/province',
   bodyParser.json(),
   createTransaction,
   jwtAuth.required,
@@ -14,21 +14,21 @@ router.post(
   create
 )
 router.get(
-  '/rooms',
+  '/province',
   createTransaction,
   jwtAuth.required,
   handleRole([['admin'], ['device']]),
   fetchPage
 )
 router.get(
-  '/rooms/:id',
+  '/province/:id',
   createTransaction,
   jwtAuth.required,
   handleRole([['admin'], ['device']]),
   fetch
 )
 router.put(
-  '/rooms/:id',
+  '/province/:id',
   bodyParser.json(),
   createTransaction,
   jwtAuth.required,
@@ -36,7 +36,7 @@ router.put(
   update
 )
 router.delete(
-  '/rooms/:id',
+  '/province/:id',
   createTransaction,
   jwtAuth.required,
   handleRole('admin'),

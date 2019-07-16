@@ -3,12 +3,11 @@
 const Checkit = require('checkit')
 
 module.exports = bookshelf =>
-  bookshelf.model('Room', {
-    tableName: 'rooms',
+  bookshelf.model('Province', {
+    tableName: 'province',
     getValidators() {
       return {
-        name: ['required', 'string'],
-        in_use: ['boolean']
+        name: ['required', 'string']
       }
     },
     initialize() {

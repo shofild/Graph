@@ -2,10 +2,10 @@
 
 const Service = require('../base/Service')
 
-class RoomService extends Service {
+class InstansiService extends Service {
   constructor(app) {
-    super(RoomService.name, app, ['user.hashed_password'])
+    super(InstansiService.name, app, ['user.hashed_password'])
   }
 }
 
-module.exports = app => new RoomService(app)
+module.exports = app => new InstansiService(app)
